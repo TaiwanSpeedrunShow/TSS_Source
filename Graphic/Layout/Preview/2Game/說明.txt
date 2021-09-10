@@ -6,7 +6,7 @@
    因框體若置中會與左邊的TSS Logo重疊 需將整塊遊戲資訊向右移一點
    使用元件：GameInfo-Middle.png
 
-3. 遊戲下方的玩家資訊如3PlusGame規格 因元件是以3PlusGame為基準 此版面需將其如圖等比例放大
+3. 遊戲下方的玩家資訊如3PlusGame規格 需要時可如圖等比例縮放
    使用元件：PlayerWithTimer.png
 
 ※預覽圖元件座標沒有完全精確
